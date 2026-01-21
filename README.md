@@ -16,7 +16,7 @@ I design and build ideas into practical software solutions
 **Tools:** VS Code • Git • Figma • XAMPP
 
 ## 🎯 What Drives Me
-I believe in **learning by building**. Every project here represents hours of problem-solving, iteration, and growth—whether from coursework, YouTube tutorials, documentation deep-dives, or pure experimentation.
+I believe in **learning by building**. Every project here represents hours of problem-solving, iteration, and growth — whether from coursework, YouTube tutorials, documentation deep-dives, or pure experimentation.
 
 I'm focused on:
 - 🤖 GenAI applications and conversational interfaces
