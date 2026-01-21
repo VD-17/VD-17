@@ -4,18 +4,18 @@ I'm **Vidhi**, a Software Engineering student based in Cape Town, South Africa �
 
 I design and build ideas into practical software solutions
 
-## 🚀 What I'm Building
+## What I'm Building
 - **🤖 Doccy** - Emotionally-aware chatbot with LLM-driven sentiment analysis and dual-memory systems
 - **🏥 Qlinic** - Android queue management app for healthcare facilities with priority-based algorithms
 - **🛒 Baobab** - Full-stack C2C e-commerce platform supporting all 11 South African languages
 
-## 💻 Tech Stack
+## Tech Stack
 **Languages:** Python • JavaScript • Kotlin • PHP • SQL • Java • C++  
 **Frontend:** HTML/CSS • React • Android Studio  
 **Backend:** Flask • Firebase • MySQL • MongoDB  
 **Tools:** VS Code • Git • Figma • XAMPP
 
-## 🎯 What Drives Me
+## What Drives Me
 I believe in **learning by building**. Every project here represents hours of problem-solving, iteration, and growth — whether from coursework, YouTube tutorials, documentation deep-dives, or pure experimentation.
 
 I'm focused on:
@@ -24,7 +24,7 @@ I'm focused on:
 - 🌍 Building accessible tech
 - 📚 Continuously exploring new tools and frameworks
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/vidhiben-maisuria)
 - 🌐 [Portfolio](https://vidhi-maisuria-portfolio.netlify.app/)
